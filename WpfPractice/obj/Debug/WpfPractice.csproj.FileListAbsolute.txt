@@ -1,0 +1,15 @@
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe.config
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\bin\Debug\WpfPractice.pdb
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csprojAssemblyReference.cache
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\MainWindow.g.cs
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\App.g.cs
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.cache
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.lref
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\MainWindow.baml
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.g.resources
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.Properties.Resources.resources
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.GenerateResource.cache
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CoreCompileInputs.cache
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.exe
+C:\Users\soohwan\source\repos\WpfPractice\WpfPractice\obj\Debug\WpfPractice.pdb
